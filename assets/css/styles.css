@@ -1,0 +1,56 @@
+body {
+    background-image: url('../img/fazul.png');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.cardPropuesta {
+    background-color: white;
+    margin-top: 20%;
+    width: 58%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p1{
+    font-weight: 600;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pTc {
+    font-size: 12px;
+}
+
+#fecha {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.btnInscribirse {
+    width: 100%;
+    font-size: 14px;
+    color: white;
+    border-radius: 0px;
+}
+
+.inputs {
+    background-color: #8080801a;
+    font-size: 14px;
+    border-radius: 0px;
+}
+
+form {
+    margin-top: 20px;
+}
+.inicioSesion{
+    text-decoration: none;
+    color: blue;
+}
+
+.sombra{
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
